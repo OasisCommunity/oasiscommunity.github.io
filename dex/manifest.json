@@ -1,0 +1,8 @@
+{
+  "short_name": "OasisDEX",
+  "name": "OasisDEX",
+  "start_url": "./200.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
