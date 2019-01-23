@@ -1,7 +1,7 @@
 {
-  "main.js": "/dex/static/js/main.9da0e837.js",
+  "main.js": "/dex/static/js/main.81061b0d.js",
   "main.css": "/dex/static/css/main.950d107f.css",
-  "main.js.map": "/dex/static/js/main.9da0e837.js.map",
+  "main.js.map": "/dex/static/js/main.81061b0d.js.map",
   "main.css.map": "/dex/static/css/main.950d107f.css.map",
   "static/media/icon-warning.svg": "/dex/static/media/icon-warning.41697f91.svg",
   "static/media/clock.svg": "/dex/static/media/clock.99ecb079.svg",
@@ -25,5 +25,5 @@
   "static/media/mist-logo.svg": "/dex/static/media/mist-logo.ab638bd3.svg",
   "static/media/coinbase-icon-512px.png": "/dex/static/media/coinbase-icon-512px.ef2c0d4b.png",
   "static/media/icon-syncing.svg": "/dex/static/media/icon-syncing.cdf1f970.svg",
-  "200.html": "/dex/200.html"
+  "index.html": "/dex/index.html"
 }
